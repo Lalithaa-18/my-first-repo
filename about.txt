@@ -1,0 +1,3 @@
+My name is Lalitha
+I am from BSC Datascience
+One thing I learned from GitHub is how to create and upload files in the repository
